@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(69, 69, 69);
+}
+
+.titulo {
+    color: azure;
+}
+
+.paragrafo {
+    color: azure;
+    text-indent: 6px;
+    margin-top: 10px;
+}
+
+.subtitulo {
+    color: azure;
+}
+
+.comentario {
+    color: azure;
+    text-align: center;
+}
+
+.separacao {
+    color: azure;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.espec {
+    color: azure;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    width: 200px;
+}
+
+.F15 {
+    width: 700px;
+}
+
+.verticalDeploy {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.israelF15 {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.Sparrow {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.F15I {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.F15japan {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.Oregon {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.viewLineDraw {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.cockpit {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.airIntake {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.linksExternos {
+    color: rgb(0, 119, 255);
+}
+
+.usa, .jpn, .il, .sa {
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 0;
+}
